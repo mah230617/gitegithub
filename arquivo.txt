@@ -1,3 +1,3 @@
-teste
+test
 
-alterei o arquivo
+modified file
